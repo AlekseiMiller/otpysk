@@ -38,6 +38,7 @@
 - [Замок Шато Эркен](https://yandex.com/maps/org/zamok_shato_erken/126397995815/?ll=43.876764%2C43.476919&z=11.25)
 - [Замок коварства и любви](https://yandex.com/maps/org/skala_zamok_kovarstva_i_lyubvi/136092343795/gallery/?ll=42.670702%2C43.898230&tab=gallery&z=15.74) (красивая точка, мне понравилось)
 - [Гора Кольцо](https://yandex.com/maps/org/gora_koltso_871_m/123799253873/?ll=42.693629%2C43.941462&z=14.23)
+- [Медовые водопады](https://yandex.ru/maps/org/medovyye_vodopady/65030923674?si=5vzxb8wzznvehr94dd6tq0qgjm)
 - [Чегемские водопады](https://yandex.com/maps/org/chegemskiye_vodopady/91390388272/?ll=42.893974%2C43.320482&z=10.92) (очень много народу, превратили место в рынок)
 - Эльбрус
 
