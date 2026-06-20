@@ -11,7 +11,7 @@
 [Гид по Архызу](https://sport-marafon.ru/article/gid-po-arkhyzu-marshruty-odnodnevnykh-pokhodov/?ysclid=mqhuc17xb8178632597)
 ## 04.07.2026
 Выезд в сторону Пятигорска в районе 10 утра
-[Маршрут до Пятигорска](https://yandex.com/maps/?ll=42.091387%2C43.891298&mode=routes&rl=39.876687%2C43.979158&rlt=area&routes%5BtimeDependent%5D%5Btime%5D=2026-07-03T09%3A00%3A00&rtext=43.543067%2C41.181210~44.039815%2C43.070427&rtt=auto&ruri=ymapsbm1%3A%2F%2Forg%3Foid%3D1397154547~ymapsbm1%3A%2F%2Fgeo%3Fdata%3DCgg1MzExOTA2MxJH0KDQvtGB0YHQuNGPLCDQodGC0LDQstGA0L7Qv9C-0LvRjNGB0LrQuNC5INC60YDQsNC5LCDQn9GP0YLQuNCz0L7RgNGB0LoiCg0fSCxCFcUoMEI%2C&utm_source=share&z=9.79 "yandex.com/maps")
+[Маршрут до Пятигорска](https://yandex.com/maps/?ll=42.091387%2C43.891298&mode=routes&rl=39.876687%2C43.979158&rlt=area&routes%5BtimeDependent%5D%5Btime%5D=2026-07-04T10%3A15%3A00&rtext=43.563645%2C41.277165~44.055786%2C43.063654&rtt=auto&ruri=ymapsbm1%3A%2F%2Fgeo%3Fdata%3DCgozNDAxMjE0ODM1EqMB0KDQvtGB0YHQuNGPLCDQmtCw0YDQsNGH0LDQtdCy0L4t0KfQtdGA0LrQtdGB0YHQutCw0Y8g0KDQtdGB0L_Rg9Cx0LvQuNC60LAsINCX0LXQu9C10L3Rh9GD0LrRgdC60LjQuSDRgNCw0LnQvtC9LCDRgdC10LvQviDQkNGA0YXRi9C3LCDRg9C70LjRhtCwINCQ0LvQuNC10LLQsCwgMTjQkCIKDdIbJUIVLUEuQg%2C%2C~ymapsbm1%3A%2F%2Fgeo%3Fdata%3DCgoxNTIzMDczNDc5Em3QoNC-0YHRgdC40Y8sINCh0YLQsNCy0YDQvtC_0L7Qu9GM0YHQutC40Lkg0LrRgNCw0LksINCf0Y_RgtC40LPQvtGA0YHQuiwg0YPQu9C40YbQsCDQn9Cw0L3QsNCz0Y7RgNC40YjRgtC1LCA2IgoNLUEsQhUfOTBC&utm_source=share&z=9 "yandex.com/maps")
 - Отдых пару часиков
 - Кушац
 - Вечерний променад с штурмом горы Машук и встреча заката на нём
